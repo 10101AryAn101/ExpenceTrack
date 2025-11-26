@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ExpenseTrack – Smart Expense Manager
 
 Modern full‑stack expense tracking application with authenticated, per‑user data, responsive dashboard analytics (daily expense/income line chart), and CRUD for expenses & quick income adds.
@@ -92,3 +93,7 @@ Set `{{token}}` and `{{userId}}` after login.
 - Brief feature summary (can reuse Features section).
 
 
+=======
+# ExpenceTrack
+Track expenses and income with a clean UI, quick add, and day‑by‑day trend charts. Built with React/Vite/Tailwind and a secure Express/MongoDB API (JWT-protected).
+>>>>>>> 54c4013bec0d331401bc29769e29da72eec31af9
