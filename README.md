@@ -38,6 +38,14 @@ Expenses: `GET /api/expenses`, `POST /api/expenses`, `PUT /api/expenses/:id`, `D
 - Postman collection: `postman_collection.json` (import into Postman; set `token` after login).
 - Screenshots: `screenshots/` folder (UI samples: login, dashboard, add expense, profile).
 
+## Screenshots
+Add PNG/JPG files under `screenshots/` and they will render below. Suggested names:
+
+![Login](screenshots/01-login.png)
+![Dashboard](screenshots/02-dashboard.png)
+![Add Expense](screenshots/03-add-expense.png)
+![Profile](screenshots/04-profile.png)
+
 ## Environment Files
 - `backend/.env.example` (template) – do not put secrets in commits.
 - `backend/.env` (local only) – contains `MONGO_URI`, `JWT_SECRET`, `JWT_EXPIRES`.
